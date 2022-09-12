@@ -1,0 +1,69 @@
+c:\users\irbdonatien\documents\visual studio 2012\Projects\Projet_Delta_V1.1\Projet_Delta_V1.1\bin\Debug\Projet_Delta_V1.1.exe.config
+c:\users\irbdonatien\documents\visual studio 2012\Projects\Projet_Delta_V1.1\Projet_Delta_V1.1\bin\Debug\Projet_Delta_V1.1.exe
+c:\users\irbdonatien\documents\visual studio 2012\Projects\Projet_Delta_V1.1\Projet_Delta_V1.1\bin\Debug\Projet_Delta_V1.1.pdb
+c:\users\irbdonatien\documents\visual studio 2012\Projects\Projet_Delta_V1.1\Projet_Delta_V1.1\obj\Debug\Projet_Delta_V1._1.Demarrage.resources
+c:\users\irbdonatien\documents\visual studio 2012\Projects\Projet_Delta_V1.1\Projet_Delta_V1.1\obj\Debug\Projet_Delta_V1._1.Properties.Resources.resources
+c:\users\irbdonatien\documents\visual studio 2012\Projects\Projet_Delta_V1.1\Projet_Delta_V1.1\obj\Debug\Projet_Delta_V1.1.csproj.GenerateResource.Cache
+c:\users\irbdonatien\documents\visual studio 2012\Projects\Projet_Delta_V1.1\Projet_Delta_V1.1\obj\Debug\Projet_Delta_V1.1.exe
+c:\users\irbdonatien\documents\visual studio 2012\Projects\Projet_Delta_V1.1\Projet_Delta_V1.1\obj\Debug\Projet_Delta_V1.1.pdb
+c:\users\irbdonatien\documents\visual studio 2012\Projects\Projet_Delta_V1.1\Projet_Delta_V1.1\obj\Debug\Projet_Delta_V1._1.Loading.resources
+c:\users\irbdonatien\documents\visual studio 2012\Projects\Projet_Delta_V1.1\Projet_Delta_V1.1\obj\Debug\Projet_Delta_V1.1.csprojResolveAssemblyReference.cache
+c:\users\irbdonatien\documents\visual studio 2012\Projects\Projet_Delta_V1.1\Projet_Delta_V1.1\obj\Debug\Projet_Delta_V1._1.Apropos.resources
+C:\Users\IRBDONATIEN\documents\visual studio 2012\Projects\Projet_Delta_V1.1\Projet_Delta_V1.1\obj\Debug\Projet_Delta_V1._1.Forms.DepotCentralForm.resources
+C:\Users\IRBDONATIEN\documents\visual studio 2012\Projects\Projet_Delta_V1.1\Projet_Delta_V1.1\obj\Debug\Projet_Delta_V1._1.Forms.Point_de_Ventes_Form.resources
+C:\Users\IRBDONATIEN\documents\visual studio 2012\Projects\Projet_Delta_V1.1\Projet_Delta_V1.1\obj\Debug\Projet_Delta_V1._1.Forms.EtablissementAdministrateurForm.resources
+C:\Users\IRBDONATIEN\Documents\Visual Studio 2012\Projects\Projet_Delta_V1.1\Projet_Delta_V1.1\obj\Debug\Projet_Delta_V1._1.Users_Controls.UC_Dashboard.resources
+C:\Users\IRBDONATIEN\Documents\Visual Studio 2012\Projects\Projet_Delta_V1.1\Projet_Delta_V1.1\obj\Debug\Projet_Delta_V1._1.Users_Controls.UC_PointVenteActive.resources
+C:\Users\IRBDONATIEN\Documents\Visual Studio 2012\Projects\Projet_Delta_V1.1\Projet_Delta_V1.1\obj\Debug\Projet_Delta_V1._1.Users_Controls.UC_PointVenteDesactive.resources
+C:\Users\IRBDONATIEN\Documents\Visual Studio 2012\Projects\Projet_Delta_V1.1\Projet_Delta_V1.1\obj\Debug\Projet_Delta_V1._1.Users_Controls.UC_PointVenteEnCours.resources
+C:\Users\IRBDONATIEN\Documents\Visual Studio 2012\Projects\Projet_Delta_V1.1\Projet_Delta_V1.1\obj\Debug\Projet_Delta_V1._1.Users_Controls.UC_UserActivate.resources
+C:\Users\IRBDONATIEN\Documents\Visual Studio 2012\Projects\Projet_Delta_V1.1\Projet_Delta_V1.1\obj\Debug\Projet_Delta_V1._1.Users_Controls.UC_UserDesactivate.resources
+C:\Users\IRBDONATIEN\Documents\Visual Studio 2012\Projects\Projet_Delta_V1.1\Projet_Delta_V1.1\obj\Debug\Projet_Delta_V1._1.Users_Controls.UC_UserEnCours.resources
+C:\Users\IRBDONATIEN\documents\visual studio 2012\Projects\Projet_Delta_V1.1\Projet_Delta_V1.1\bin\Debug\MySql.Data.dll
+C:\Users\IRBDONATIEN\documents\visual studio 2012\Projects\Projet_Delta_V1.1\Projet_Delta_V1.1\obj\Debug\Projet_Delta_V1._1.Forms.AjouterEtablissementForm.resources
+C:\Users\IRBDONATIEN\documents\visual studio 2012\Projects\Projet_Delta_V1.1\Projet_Delta_V1.1\obj\Debug\Projet_Delta_V1._1.Forms.AjouterUtilisateurForm.resources
+C:\Users\IRBDONATIEN\documents\visual studio 2012\Projects\Projet_Delta_V1.1\Projet_Delta_V1.1\obj\Debug\Projet_Delta_V1._1.Users_Controls.UC_ListCmde.resources
+C:\Users\IRBDONATIEN\documents\visual studio 2012\Projects\Projet_Delta_V1.1\Projet_Delta_V1.1\obj\Debug\Projet_Delta_V1._1.Users_Controls.UC_ListEntree.resources
+C:\Users\IRBDONATIEN\documents\visual studio 2012\Projects\Projet_Delta_V1.1\Projet_Delta_V1.1\obj\Debug\Projet_Delta_V1._1.Users_Controls.UC_ListSortie.resources
+C:\Users\IRBDONATIEN\documents\visual studio 2012\Projects\Projet_Delta_V1.1\Projet_Delta_V1.1\obj\Debug\Projet_Delta_V1._1.Users_Controls.UC_FACTURE.resources
+C:\Users\IRBDONATIEN\documents\visual studio 2012\Projects\Projet_Delta_V1.1\Projet_Delta_V1.1\obj\Debug\Projet_Delta_V1._1.Users_Controls.UC_LigneFacture.resources
+C:\Users\IRBDONATIEN\documents\visual studio 2012\Projects\Projet_Delta_V1.1\Projet_Delta_V1.1\obj\Debug\Projet_Delta_V1._1.Users_Controls.UC_ListeFacture.resources
+C:\Users\IRBDONATIEN\documents\visual studio 2012\Projects\Projet_Delta_V1.1\Projet_Delta_V1.1\obj\Debug\Projet_Delta_V1._1.Users_Controls.UC_BonCommande.resources
+C:\Users\IRBDONATIEN\documents\visual studio 2012\Projects\Projet_Delta_V1.1\Projet_Delta_V1.1\obj\Debug\Projet_Delta_V1._1.Users_Controls.UC_EntreeStock.resources
+C:\Users\IRBDONATIEN\documents\visual studio 2012\Projects\Projet_Delta_V1.1\Projet_Delta_V1.1\obj\Debug\Projet_Delta_V1._1.Users_Controls.UC_ListeTransfert.resources
+C:\Users\IRBDONATIEN\documents\visual studio 2012\Projects\Projet_Delta_V1.1\Projet_Delta_V1.1\obj\Debug\Projet_Delta_V1._1.Users_Controls.UC_RapportSelection.resources
+C:\Users\IRBDONATIEN\documents\visual studio 2012\Projects\Projet_Delta_V1.1\Projet_Delta_V1.1\obj\Debug\Projet_Delta_V1._1.Users_Controls.UC_StockEnCours.resources
+C:\Users\IRBDONATIEN\documents\visual studio 2012\Projects\Projet_Delta_V1.1\Projet_Delta_V1.1\obj\Debug\Projet_Delta_V1._1.Forms.ModifPassAuDemarrageForm.resources
+C:\Users\IRBDONATIEN\Documents\Visual Studio 2019\Visual Studio 2012\Projects\Projet_Delta_V1.1\Projet_Delta_V1.1\bin\Debug\Projet_Delta_V1.1.exe.config
+C:\Users\IRBDONATIEN\Documents\Visual Studio 2019\Visual Studio 2012\Projects\Projet_Delta_V1.1\Projet_Delta_V1.1\obj\Debug\Projet_Delta_V1.1.exe
+C:\Users\IRBDONATIEN\Documents\Visual Studio 2019\Visual Studio 2012\Projects\Projet_Delta_V1.1\Projet_Delta_V1.1\obj\Debug\Projet_Delta_V1.1.pdb
+C:\Users\IRBDONATIEN\Documents\Visual Studio 2019\Visual Studio 2012\Projects\Projet_Delta_V1.1\Projet_Delta_V1.1\obj\Debug\Projet_Delta_V1.1.csprojResolveAssemblyReference.cache
+C:\Users\IRBDONATIEN\Documents\Visual Studio 2019\Visual Studio 2012\Projects\Projet_Delta_V1.1\Projet_Delta_V1.1\obj\Debug\Projet_Delta_V1._1.Apropos.resources
+C:\Users\IRBDONATIEN\Documents\Visual Studio 2019\Visual Studio 2012\Projects\Projet_Delta_V1.1\Projet_Delta_V1.1\obj\Debug\Projet_Delta_V1._1.Demarrage.resources
+C:\Users\IRBDONATIEN\Documents\Visual Studio 2019\Visual Studio 2012\Projects\Projet_Delta_V1.1\Projet_Delta_V1.1\obj\Debug\Projet_Delta_V1._1.Forms.AjouterEtablissementForm.resources
+C:\Users\IRBDONATIEN\Documents\Visual Studio 2019\Visual Studio 2012\Projects\Projet_Delta_V1.1\Projet_Delta_V1.1\obj\Debug\Projet_Delta_V1._1.Forms.AjouterUtilisateurForm.resources
+C:\Users\IRBDONATIEN\Documents\Visual Studio 2019\Visual Studio 2012\Projects\Projet_Delta_V1.1\Projet_Delta_V1.1\obj\Debug\Projet_Delta_V1._1.Forms.DepotCentralForm.resources
+C:\Users\IRBDONATIEN\Documents\Visual Studio 2019\Visual Studio 2012\Projects\Projet_Delta_V1.1\Projet_Delta_V1.1\obj\Debug\Projet_Delta_V1._1.Forms.EtablissementAdministrateurForm.resources
+C:\Users\IRBDONATIEN\Documents\Visual Studio 2019\Visual Studio 2012\Projects\Projet_Delta_V1.1\Projet_Delta_V1.1\obj\Debug\Projet_Delta_V1._1.Forms.ModifPassAuDemarrageForm.resources
+C:\Users\IRBDONATIEN\Documents\Visual Studio 2019\Visual Studio 2012\Projects\Projet_Delta_V1.1\Projet_Delta_V1.1\obj\Debug\Projet_Delta_V1._1.Forms.Point_de_Ventes_Form.resources
+C:\Users\IRBDONATIEN\Documents\Visual Studio 2019\Visual Studio 2012\Projects\Projet_Delta_V1.1\Projet_Delta_V1.1\obj\Debug\Projet_Delta_V1._1.Loading.resources
+C:\Users\IRBDONATIEN\Documents\Visual Studio 2019\Visual Studio 2012\Projects\Projet_Delta_V1.1\Projet_Delta_V1.1\obj\Debug\Projet_Delta_V1._1.Properties.Resources.resources
+C:\Users\IRBDONATIEN\Documents\Visual Studio 2019\Visual Studio 2012\Projects\Projet_Delta_V1.1\Projet_Delta_V1.1\obj\Debug\Projet_Delta_V1._1.Users_Controls.UC_BonCommande.resources
+C:\Users\IRBDONATIEN\Documents\Visual Studio 2019\Visual Studio 2012\Projects\Projet_Delta_V1.1\Projet_Delta_V1.1\obj\Debug\Projet_Delta_V1._1.Users_Controls.UC_Dashboard.resources
+C:\Users\IRBDONATIEN\Documents\Visual Studio 2019\Visual Studio 2012\Projects\Projet_Delta_V1.1\Projet_Delta_V1.1\obj\Debug\Projet_Delta_V1._1.Users_Controls.UC_EntreeStock.resources
+C:\Users\IRBDONATIEN\Documents\Visual Studio 2019\Visual Studio 2012\Projects\Projet_Delta_V1.1\Projet_Delta_V1.1\obj\Debug\Projet_Delta_V1._1.Users_Controls.UC_FACTURE.resources
+C:\Users\IRBDONATIEN\Documents\Visual Studio 2019\Visual Studio 2012\Projects\Projet_Delta_V1.1\Projet_Delta_V1.1\obj\Debug\Projet_Delta_V1._1.Users_Controls.UC_LigneFacture.resources
+C:\Users\IRBDONATIEN\Documents\Visual Studio 2019\Visual Studio 2012\Projects\Projet_Delta_V1.1\Projet_Delta_V1.1\obj\Debug\Projet_Delta_V1._1.Users_Controls.UC_ListCmde.resources
+C:\Users\IRBDONATIEN\Documents\Visual Studio 2019\Visual Studio 2012\Projects\Projet_Delta_V1.1\Projet_Delta_V1.1\obj\Debug\Projet_Delta_V1._1.Users_Controls.UC_ListeFacture.resources
+C:\Users\IRBDONATIEN\Documents\Visual Studio 2019\Visual Studio 2012\Projects\Projet_Delta_V1.1\Projet_Delta_V1.1\obj\Debug\Projet_Delta_V1._1.Users_Controls.UC_ListEntree.resources
+C:\Users\IRBDONATIEN\Documents\Visual Studio 2019\Visual Studio 2012\Projects\Projet_Delta_V1.1\Projet_Delta_V1.1\obj\Debug\Projet_Delta_V1._1.Users_Controls.UC_ListeTransfert.resources
+C:\Users\IRBDONATIEN\Documents\Visual Studio 2019\Visual Studio 2012\Projects\Projet_Delta_V1.1\Projet_Delta_V1.1\obj\Debug\Projet_Delta_V1._1.Users_Controls.UC_ListSortie.resources
+C:\Users\IRBDONATIEN\Documents\Visual Studio 2019\Visual Studio 2012\Projects\Projet_Delta_V1.1\Projet_Delta_V1.1\obj\Debug\Projet_Delta_V1._1.Users_Controls.UC_PointVenteActive.resources
+C:\Users\IRBDONATIEN\Documents\Visual Studio 2019\Visual Studio 2012\Projects\Projet_Delta_V1.1\Projet_Delta_V1.1\obj\Debug\Projet_Delta_V1._1.Users_Controls.UC_PointVenteDesactive.resources
+C:\Users\IRBDONATIEN\Documents\Visual Studio 2019\Visual Studio 2012\Projects\Projet_Delta_V1.1\Projet_Delta_V1.1\obj\Debug\Projet_Delta_V1._1.Users_Controls.UC_PointVenteEnCours.resources
+C:\Users\IRBDONATIEN\Documents\Visual Studio 2019\Visual Studio 2012\Projects\Projet_Delta_V1.1\Projet_Delta_V1.1\obj\Debug\Projet_Delta_V1._1.Users_Controls.UC_RapportSelection.resources
+C:\Users\IRBDONATIEN\Documents\Visual Studio 2019\Visual Studio 2012\Projects\Projet_Delta_V1.1\Projet_Delta_V1.1\obj\Debug\Projet_Delta_V1._1.Users_Controls.UC_StockEnCours.resources
+C:\Users\IRBDONATIEN\Documents\Visual Studio 2019\Visual Studio 2012\Projects\Projet_Delta_V1.1\Projet_Delta_V1.1\obj\Debug\Projet_Delta_V1._1.Users_Controls.UC_UserActivate.resources
+C:\Users\IRBDONATIEN\Documents\Visual Studio 2019\Visual Studio 2012\Projects\Projet_Delta_V1.1\Projet_Delta_V1.1\obj\Debug\Projet_Delta_V1._1.Users_Controls.UC_UserDesactivate.resources
+C:\Users\IRBDONATIEN\Documents\Visual Studio 2019\Visual Studio 2012\Projects\Projet_Delta_V1.1\Projet_Delta_V1.1\obj\Debug\Projet_Delta_V1._1.Users_Controls.UC_UserEnCours.resources
+C:\Users\IRBDONATIEN\Documents\Visual Studio 2019\Visual Studio 2012\Projects\Projet_Delta_V1.1\Projet_Delta_V1.1\obj\Debug\Projet_Delta_V1.1.csproj.GenerateResource.Cache

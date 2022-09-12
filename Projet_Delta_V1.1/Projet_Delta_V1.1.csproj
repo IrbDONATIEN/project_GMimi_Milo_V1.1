@@ -1,0 +1,335 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{BE2441C1-F89A-49B2-B4AE-77FE9E569D5E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Projet_Delta_V1._1</RootNamespace>
+    <AssemblyName>Projet_Delta_V1.1</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="MySql.Data, Version=8.0.23.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\MySQL\MySQL for Visual Studio 1.1.1\Assemblies\v4.0\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Apropos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apropos.Designer.cs">
+      <DependentUpon>Apropos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\ETABLISSEMENT.cs" />
+    <Compile Include="Classes\Globals.cs" />
+    <Compile Include="Classes\GlobalsAdmin.cs" />
+    <Compile Include="Classes\MY_DB.cs" />
+    <Compile Include="Classes\ProductLicence.cs" />
+    <Compile Include="Classes\UTILISATEUR.cs" />
+    <Compile Include="Demarrage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Demarrage.Designer.cs">
+      <DependentUpon>Demarrage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\AjouterEtablissementForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\AjouterEtablissementForm.Designer.cs">
+      <DependentUpon>AjouterEtablissementForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\AjouterUtilisateurForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\AjouterUtilisateurForm.Designer.cs">
+      <DependentUpon>AjouterUtilisateurForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\DepotCentralForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\DepotCentralForm.Designer.cs">
+      <DependentUpon>DepotCentralForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\EtablissementAdministrateurForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\EtablissementAdministrateurForm.Designer.cs">
+      <DependentUpon>EtablissementAdministrateurForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ModifPassAuDemarrageForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ModifPassAuDemarrageForm.Designer.cs">
+      <DependentUpon>ModifPassAuDemarrageForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Point_de_Ventes_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Point_de_Ventes_Form.Designer.cs">
+      <DependentUpon>Point_de_Ventes_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Loading.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Loading.Designer.cs">
+      <DependentUpon>Loading.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Users Controls\UC_BonCommande.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users Controls\UC_BonCommande.Designer.cs">
+      <DependentUpon>UC_BonCommande.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Users Controls\UC_Dashboard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users Controls\UC_Dashboard.Designer.cs">
+      <DependentUpon>UC_Dashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Users Controls\UC_EntreeStock.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users Controls\UC_EntreeStock.Designer.cs">
+      <DependentUpon>UC_EntreeStock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Users Controls\UC_FACTURE.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users Controls\UC_FACTURE.Designer.cs">
+      <DependentUpon>UC_FACTURE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Users Controls\UC_LigneFacture.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users Controls\UC_LigneFacture.Designer.cs">
+      <DependentUpon>UC_LigneFacture.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Users Controls\UC_ListCmde.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users Controls\UC_ListCmde.Designer.cs">
+      <DependentUpon>UC_ListCmde.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Users Controls\UC_ListeFacture.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users Controls\UC_ListeFacture.Designer.cs">
+      <DependentUpon>UC_ListeFacture.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Users Controls\UC_ListEntree.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users Controls\UC_ListEntree.Designer.cs">
+      <DependentUpon>UC_ListEntree.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Users Controls\UC_ListeTransfert.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users Controls\UC_ListeTransfert.Designer.cs">
+      <DependentUpon>UC_ListeTransfert.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Users Controls\UC_ListSortie.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users Controls\UC_ListSortie.Designer.cs">
+      <DependentUpon>UC_ListSortie.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Users Controls\UC_PointVenteActive.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users Controls\UC_PointVenteActive.Designer.cs">
+      <DependentUpon>UC_PointVenteActive.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Users Controls\UC_PointVenteDesactive.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users Controls\UC_PointVenteDesactive.Designer.cs">
+      <DependentUpon>UC_PointVenteDesactive.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Users Controls\UC_PointVenteEnCours.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users Controls\UC_PointVenteEnCours.Designer.cs">
+      <DependentUpon>UC_PointVenteEnCours.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Users Controls\UC_RapportSelection.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users Controls\UC_RapportSelection.Designer.cs">
+      <DependentUpon>UC_RapportSelection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Users Controls\UC_StockEnCours.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users Controls\UC_StockEnCours.Designer.cs">
+      <DependentUpon>UC_StockEnCours.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Users Controls\UC_UserActivate.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users Controls\UC_UserActivate.Designer.cs">
+      <DependentUpon>UC_UserActivate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Users Controls\UC_UserDesactivate.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users Controls\UC_UserDesactivate.Designer.cs">
+      <DependentUpon>UC_UserDesactivate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Users Controls\UC_UserEnCours.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users Controls\UC_UserEnCours.Designer.cs">
+      <DependentUpon>UC_UserEnCours.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Apropos.resx">
+      <DependentUpon>Apropos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Demarrage.resx">
+      <DependentUpon>Demarrage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\AjouterEtablissementForm.resx">
+      <DependentUpon>AjouterEtablissementForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\AjouterUtilisateurForm.resx">
+      <DependentUpon>AjouterUtilisateurForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\DepotCentralForm.resx">
+      <DependentUpon>DepotCentralForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\EtablissementAdministrateurForm.resx">
+      <DependentUpon>EtablissementAdministrateurForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ModifPassAuDemarrageForm.resx">
+      <DependentUpon>ModifPassAuDemarrageForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Point_de_Ventes_Form.resx">
+      <DependentUpon>Point_de_Ventes_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Loading.resx">
+      <DependentUpon>Loading.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Users Controls\UC_BonCommande.resx">
+      <DependentUpon>UC_BonCommande.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users Controls\UC_Dashboard.resx">
+      <DependentUpon>UC_Dashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users Controls\UC_EntreeStock.resx">
+      <DependentUpon>UC_EntreeStock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users Controls\UC_FACTURE.resx">
+      <DependentUpon>UC_FACTURE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users Controls\UC_LigneFacture.resx">
+      <DependentUpon>UC_LigneFacture.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users Controls\UC_ListCmde.resx">
+      <DependentUpon>UC_ListCmde.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users Controls\UC_ListeFacture.resx">
+      <DependentUpon>UC_ListeFacture.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users Controls\UC_ListEntree.resx">
+      <DependentUpon>UC_ListEntree.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users Controls\UC_ListeTransfert.resx">
+      <DependentUpon>UC_ListeTransfert.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users Controls\UC_ListSortie.resx">
+      <DependentUpon>UC_ListSortie.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users Controls\UC_PointVenteActive.resx">
+      <DependentUpon>UC_PointVenteActive.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users Controls\UC_PointVenteDesactive.resx">
+      <DependentUpon>UC_PointVenteDesactive.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users Controls\UC_PointVenteEnCours.resx">
+      <DependentUpon>UC_PointVenteEnCours.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users Controls\UC_RapportSelection.resx">
+      <DependentUpon>UC_RapportSelection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users Controls\UC_StockEnCours.resx">
+      <DependentUpon>UC_StockEnCours.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users Controls\UC_UserActivate.resx">
+      <DependentUpon>UC_UserActivate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users Controls\UC_UserDesactivate.resx">
+      <DependentUpon>UC_UserDesactivate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users Controls\UC_UserEnCours.resx">
+      <DependentUpon>UC_UserEnCours.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
