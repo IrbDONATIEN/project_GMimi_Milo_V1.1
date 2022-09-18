@@ -17,3 +17,4 @@ Developers using this project should already have:
 
 - Visual Studio 2012
 - MySQL
+- file database: projet_delta_v11 (1).sql
