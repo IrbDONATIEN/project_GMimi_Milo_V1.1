@@ -9,3 +9,11 @@ Engineer Donatien BANYISHAYI NKITABUNGI
 Founding President and CEO of Bnd Mobetisoft 
 
 
+## Getting Started
+
+### Pre-requisites and Local Development
+
+Developers using this project should already have:
+
+- Visual Studio 2012
+- MySQL
