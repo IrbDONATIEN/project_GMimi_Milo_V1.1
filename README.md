@@ -18,3 +18,10 @@ Developers using this project should already have:
 - Visual Studio 2012
 - MySQL
 - file database: projet_delta_v11 (1).sql
+
+
+## Types of users:
+
+- Daudet is the default administrator  and password : 11111
+- User type: Admin and user
+- Company: BndMobetisoft
