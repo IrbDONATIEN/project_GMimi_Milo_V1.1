@@ -27,8 +27,14 @@ Developers using this project should already have:
 
 The handling of GMimi Milo is divided into two modules: the first module (Presentation, installation, startup and administration) and the second module (Point of sale or store billing mode). And you will find the detailed document in this project.
 
+
+- Welcome interface for user authentication
+
+![demomi](https://user-images.githubusercontent.com/111361566/194846609-c5696d1f-17ff-42df-b8cc-1aed8d33cb09.png)
+
 - stock management mode
 
+![adminmi](https://user-images.githubusercontent.com/111361566/194846618-f75bd444-592e-42e7-8a0d-d10b753e750d.png)
 
 
 ## Types of users:
